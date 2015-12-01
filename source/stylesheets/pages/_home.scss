@@ -1,0 +1,39 @@
+.welcome {
+  background-image: image-url('forest.jpeg');
+  background-size: cover;
+  color: white;
+}
+
+.card {
+  position: relative;
+  height: 175px;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+  color: white;
+  margin: 20px auto;
+  visibility: visible;
+}
+.card-bg{
+  background-size: cover;
+  border-radius: 3px;
+  position: center;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.feature {
+  border-style: ridge;
+  margin: 10px 0 10px 0;
+}
+
+.feature h3 {
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: bold;
+}
+
+.feature p {
+  font-size: 15px;
+  color: #B3B3B3;
+  font-weight: 300;
+}

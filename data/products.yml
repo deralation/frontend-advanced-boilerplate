@@ -1,4 +1,6 @@
-- name: Some product
-  image: some_product.png
-- name: Other product
-  image: other_product.png
+- name: 'Amazing Sea'
+  image: 'source/images/sea.jpeg'
+  summary:"Lorem ipsum dolor sit amet, molestiae asperiores sapiente?"
+- name: 'Amazing Nature'
+  image: 'source/images/sea2.jpeg'
+  summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
